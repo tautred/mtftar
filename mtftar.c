@@ -88,7 +88,6 @@ int main(int argc, char *argv[])
 
 	char *fn, *dfn;
 	char *str;
-	int skipping_set;
 
 	time_t mtime;
 	int r;
